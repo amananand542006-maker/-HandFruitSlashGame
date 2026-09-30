@@ -1,0 +1,9 @@
+.venv/
+.venv312/
+venv/
+env/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+models/hand_landmarker.task
